@@ -8,14 +8,14 @@ export default apiInitializer("1.34.0", (api) => {
     </a>
     <span class="divid"></span>
     <a
-      class="openeuler-logo lang-zh"
-      href="https://www.openeuler.org/zh/"
+      class="opengauss-logo lang-zh"
+      href="https://opengauss.test.osinfra.cn/zh/"
       target="_blank"
     >
     </a>
     <a
-      class="openeuler-logo lang-en"
-      href="https://www.openeuler.org/en/"
+      class="opengauss-logo lang-en"
+      href="https://opengauss.test.osinfra.cn/en/"
       target="_blank"
     >
     </a>

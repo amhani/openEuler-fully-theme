@@ -1,1 +1,1 @@
-# openEuler-fully-theme
+# openGauss-fully-theme
